@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -63,4 +63,30 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
+
+<h1 align="center">Xacebook</h1>
+
+## About
+
+Sebuah proyek personal yang saya buat sebagai protfolio pribadi saya.
+Xacebook adalah website yang saya buat dengan pendekatan menduplikasi tampilan dan fitur yang ada pada platform [Facebook](https://facebook.com).
+Proyek ini saya buat menggunakan framework [Bootstrap 5.3](https://getbootstrap.com/) pada sisi frontend dan framework [Laravel 10](https://laravel.com/docs/10.x/readme) pada sisi backend.
+Beberapa fitur yang dimiliki xacebook anatara lain:
+
+-   Registrasi akun
+-   Login
+-   Membuat postingan
+-   Fitur pertemanan (Mengirim permintaan pertemanan, konfirmasi atau menolak permintaan, membatalkan permintaan, serta menghapus pertemanan)
+-   Melihat Profile akun diri sendiri maupun oran lain
+-   Menambah photo profile
+
+## Preview
+
+<img src="preview/1.JPG">
+<img src="preview/2.JPG">
+<img src="preview/3.JPG">
+<img src="preview/4.JPG">
+<img src="preview/5.JPG">
+<img src="preview/6.JPG">
+<img src="preview/7.JPG">
